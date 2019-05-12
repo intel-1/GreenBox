@@ -1,2 +1,2 @@
 # GreenBox
-Universal controller of a microclimate
+Universal controller of a microclimate.
